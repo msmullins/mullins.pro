@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Mullins Thought</title>
+    <link>https://mullins.pro/posts/</link>
+    <description>Recent content in Posts on Mullins Thought</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Feb 2024 16:26:17 -0500</lastBuildDate>
+    <atom:link href="https://mullins.pro/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Back to Blogging</title>
+      <link>https://mullins.pro/posts/first-post/</link>
+      <pubDate>Mon, 12 Feb 2024 16:26:17 -0500</pubDate>
+      <guid>https://mullins.pro/posts/first-post/</guid>
+      <description>My first foray into blogging was twenty years ago and from 2004 to 2015 I ran a popular group blog for academic philosophy. At the time blogging was a great way to collaborate with other people in our field, get feedback on work in progress, and to some extent raise your profile in the profession. It was great for young philosophers and those in small departments without peers working in close areas.</description>
+    </item>
+  </channel>
+</rss>

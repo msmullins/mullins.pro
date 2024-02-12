@@ -1,0 +1,4 @@
+baseURL = 'https://mullins.pro/'
+languageCode = 'en-us'
+title = 'Mullins Thought'
+theme = 'PaperMod'
