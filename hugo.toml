@@ -52,9 +52,16 @@ enableRobotsTXT = true
     name = "Github"
     url = "https://github.com/msmullins"
   [[params.social]]
+    icon = "fa-brands fa-apple fa-2x"
+    name = "Apple Music"
+    url = "https://music.apple.com/profile/msmullins"a
+  [[params.social]]
+    icon = "fa-brands fa-meetup fa-2x"
+    name = "Meetup"
+    url ="https://www.meetup.com/members/72378312/"
+  [[params.social]]
     name = "RSS"
     icon = "fa-solid fa-rss fa-2x"
-    weight = 4
     url = "https://mullins.pro/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
