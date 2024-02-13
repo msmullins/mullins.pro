@@ -1,10 +1,11 @@
 baseURL = 'https://mullins.pro/'
 languageCode = 'en-us'
 title = 'Mullins Thoughts'
-avatarURL = "static/headshot.jpeg"
+avatarURL = "static/headshot.png"
 theme = 'hugo-coder'
 
 keywords = "blog,personal,data,analytics,engineering,product"
+info = ["Product and Engineering for Datan"]
 
 colorScheme = "auto"
 hidecolorschemetoggle = false
