@@ -58,3 +58,7 @@ enableRobotsTXT = true
     url = "https://mullins.pro/index.xml"
     rel = "alternate"
     type = "application/rss+xml"
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-0QM5Z20LFK'
