@@ -2,3 +2,24 @@ baseURL = 'https://mullins.pro/'
 languageCode = 'en-us'
 title = 'Mullins Thought'
 theme = 'PaperMod'
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+enableEmoji = true
+paginate = 5
+enableInlineShortcodes = true
+enableRobotsTXT = true
+
+[params]
+author = "Matthew Mullins"
+ShowShareButtons = true
+ShowReadingTime = true
+displayFullLangName =  true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+ShowRssButtonInSectionTermList = true
+
+[[parms.socialIcons]]
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/msmullins/"
