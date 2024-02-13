@@ -1,14 +1,7 @@
 baseURL = 'https://mullins.pro/'
 languageCode = 'en-us'
 title = 'Mullins Thoughts'
-avatarURL = "static/headshot.png"
 theme = 'hugo-coder'
-
-keywords = "blog,personal,data,analytics,engineering,product"
-info = ["Product and Engineering for Datan"]
-
-colorScheme = "auto"
-hidecolorschemetoggle = false
 enableEmoji = true
 
 buildDrafts = false
@@ -20,21 +13,22 @@ enableRobotsTXT = true
 
 [menu]
   [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
     name = "Blog"
     url = "posts/"
-    weight = 2
+    weight = 1
   [[menu.main]]
     name = "About"
     url = "about/"
-    weight = 3
+    weight = 2
 
 [params]
   author = "Matthew Mullins"
   description = "Public musings..."
+  avatarURL = "static/headshot.png"
+  keywords = "blog,personal,data,analytics,engineering,product"
+  info = ["Product and Engineering for Data"]
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
   
   env = "production"
   ShowShareButtons = true
