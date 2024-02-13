@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mullins.pro/about/</loc>
+    <lastmod>2024-02-12T23:28:59-05:00</lastmod>
+  </url><url>
     <loc>https://mullins.pro/posts/first-post/</loc>
     <lastmod>2024-02-12T16:26:17-05:00</lastmod>
   </url><url>
@@ -12,6 +15,8 @@
     <lastmod>2024-02-12T16:26:17-05:00</lastmod>
   </url><url>
     <loc>https://mullins.pro/search/</loc>
+  </url><url>
+    <loc>https://mullins.pro/archives/</loc>
   </url><url>
     <loc>https://mullins.pro/categories/</loc>
   </url><url>

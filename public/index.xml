@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mullins Thought</title>
+    <title>Mullins Thoughts</title>
     <link>https://mullins.pro/</link>
-    <description>Recent content on Mullins Thought</description>
+    <description>Recent content on Mullins Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Feb 2024 16:26:17 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 23:28:59 -0500</lastBuildDate>
     <atom:link href="https://mullins.pro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://mullins.pro/about/</link>
+      <pubDate>Mon, 12 Feb 2024 23:28:59 -0500</pubDate>
+      <guid>https://mullins.pro/about/</guid>
+      <description>##Bio&#xA;Some nonsense about me</description>
+    </item>
     <item>
       <title>Back to Blogging</title>
       <link>https://mullins.pro/posts/first-post/</link>
@@ -20,8 +27,14 @@
       <link>https://mullins.pro/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://mullins.pro/search/</guid>
-      <description>title: &amp;ldquo;Search&amp;rdquo; # in any language you want layout: &amp;ldquo;search&amp;rdquo; # necessary for search
-url: &amp;ldquo;/archive&amp;rdquo; description: &amp;ldquo;Description for Search&amp;rdquo; summary: &amp;ldquo;search&amp;rdquo; placeholder: &amp;ldquo;placeholder text in search input box&amp;rdquo;</description>
+      <description>title: &amp;ldquo;Search&amp;rdquo; # in any language you want layout: &amp;ldquo;search&amp;rdquo; # necessary for search&#xA;url: &amp;ldquo;/archive&amp;rdquo; Link to heading description: &amp;ldquo;Description for Search&amp;rdquo; Link to heading summary: &amp;ldquo;search&amp;rdquo; placeholder: &amp;ldquo;placeholder text in search input box&amp;rdquo;</description>
+    </item>
+    <item>
+      <title>Archive</title>
+      <link>https://mullins.pro/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mullins.pro/archives/</guid>
+      <description>archives</description>
     </item>
   </channel>
 </rss>

@@ -1,14 +1,14 @@
 baseURL = 'https://mullins.pro/'
 languageCode = 'en-us'
 title = 'Mullins Thoughts'
-avatar = "static/headshot.jpeg"
+avatarURL = "static/headshot.jpeg"
 theme = 'hugo-coder'
 
 keywords = "blog,personal,data,analytics,engineering,product"
 
 colorScheme = "auto"
 hidecolorschemetoggle = false
-enableTwemoji = true
+enableEmoji = true
 
 buildDrafts = false
 buildFuture = false
@@ -56,4 +56,10 @@ enableRobotsTXT = true
     icon = "fa-brands fa-github fa-2x"
     name = "Github"
     url = "https://github.com/msmullins"
-
+  [[params.social]]
+    name = "RSS"
+    icon = "fa-solid fa-rss fa-2x"
+    weight = 4
+    url = "https://mullins.pro/index.xml"
+    rel = "alternate"
+    type = "application/rss+xml"
