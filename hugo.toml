@@ -54,11 +54,11 @@ enableRobotsTXT = true
   [[params.social]]
     icon = "fa-brands fa-apple fa-2x"
     name = "Apple Music"
-    url = "https://music.apple.com/profile/msmullins"a
+    url = "https://music.apple.com/profile/msmullins"
   [[params.social]]
     icon = "fa-brands fa-meetup fa-2x"
     name = "Meetup"
-    url ="https://www.meetup.com/members/72378312/"
+    url = "https://www.meetup.com/members/72378312/"
   [[params.social]]
     name = "RSS"
     icon = "fa-solid fa-rss fa-2x"
