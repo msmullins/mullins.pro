@@ -1,39 +1,59 @@
 baseURL = 'https://mullins.pro/'
 languageCode = 'en-us'
-title = 'Mullins Thought'
-theme = 'PaperMod'
+title = 'Mullins Thoughts'
+avatar = "static/headshot.jpeg"
+theme = 'hugo-coder'
+
+keywords = "blog,personal,data,analytics,engineering,product"
+
+colorScheme = "auto"
+hidecolorschemetoggle = false
+enableTwemoji = true
+
 buildDrafts = false
 buildFuture = false
 buildExpired = false
-enableEmoji = true
 paginate = 5
 enableInlineShortcodes = true
 enableRobotsTXT = true
 
-[outputs]
-home = ['html', 'json', 'rss']
-page = ['html', 'rss']
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    url = "posts/"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 3
 
 [params]
-author = "Matthew Mullins"
-ShowShareButtons = true
-ShowReadingTime = true
-displayFullLangName =  true
-ShowPostNavLinks = true
-ShowBreadCrumbs = true
-ShowCodeCopyButtons = true
-ShowRssButtonInSectionTermList = true
+  author = "Matthew Mullins"
+  description = "Public musings..."
+  
+  env = "production"
+  ShowShareButtons = true
+  ShowReadingTime = true
+  displayFullLangName =  true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowRssButtonInSectionTermList = true
 
-[[params.fuseOpts]]
-isCaseSensitive = false
-shouldSort = true
-location = 0
-distance = 1000
-threshold = 0.4
-minMatchCharLength = 0
-   # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
-keys = ["title", "permalink", "summary", "content"]
+  [[params.social]]
+    icon = "fa-brands fa-linkedin fa-2x"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/msmullins/"
+  [[params.social]]
+    icon = "fa-brands fa-threads fa-2x"
+    name = "LinkedIn"
+    url = "https://www.threads.net/@matthew_mullins_"
+  [[params.social]]
+    icon = "fa-brands fa-github fa-2x"
+    name = "Github"
+    url = "https://github.com/msmullins"
 
-[[params.socialIcons]]
-name = "LinkedIn"
-url = "https://www.linkedin.com/in/msmullins/"
