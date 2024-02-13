@@ -24,7 +24,7 @@ enableRobotsTXT = true
 [params]
   author = "Matthew Mullins"
   description = "Public musings..."
-  avatarURL = "static/headshot.png"
+  avatarURL = "images/headshot.png"
   keywords = "blog,personal,data,analytics,engineering,product"
   info = ["Product and Engineering for Data"]
   colorScheme = "auto"
