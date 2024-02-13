@@ -15,5 +15,13 @@
       <guid>https://mullins.pro/posts/first-post/</guid>
       <description>My first foray into blogging was twenty years ago and from 2004 to 2015 I ran a popular group blog for academic philosophy. At the time blogging was a great way to collaborate with other people in our field, get feedback on work in progress, and to some extent raise your profile in the profession. It was great for young philosophers and those in small departments without peers working in close areas.</description>
     </item>
+    <item>
+      <title></title>
+      <link>https://mullins.pro/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mullins.pro/search/</guid>
+      <description>title: &amp;ldquo;Search&amp;rdquo; # in any language you want layout: &amp;ldquo;search&amp;rdquo; # necessary for search
+url: &amp;ldquo;/archive&amp;rdquo; description: &amp;ldquo;Description for Search&amp;rdquo; summary: &amp;ldquo;search&amp;rdquo; placeholder: &amp;ldquo;placeholder text in search input box&amp;rdquo;</description>
+    </item>
   </channel>
 </rss>
