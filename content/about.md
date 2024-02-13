@@ -4,7 +4,6 @@ date = 2024-02-12T23:28:59-05:00
 author = "Matthew Mullins"
 +++
 
-## Bio
 
 Every act of autobiography is a bit of creative fiction, but the following is biography you won't glean from LinkedIn. Originally from the horse capital of the world, the first horse I can recall riding was a Lipizzaner at the age of three. Had my colleages known this, they'd have been less surprised when I rode a horse through downtown Kharkiv, Ukraine. Though built like a linebacker, I fenced throughout high school, including a competing in the Junior Nationals/Olympics my senrior year. I'd spend the next three years fencing under the women's national epee coach while competeing on the US national circuit. 
 
