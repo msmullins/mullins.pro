@@ -3,7 +3,7 @@ draft = false
 date = 2024-02-17T21:46:41-05:00
 title = "On Being Reliably Wrong"
 +++
-
+![Cover Image](image.png)
 One of my favorite episodes of Seinfeld was "The Opposite" from the end of the fifth season. In the episode George laments that all of
  his life choices have been wrong. Jerry remarks to him that "if every instinct you have is wrong, then the opposite would have to be right". George puts this to the test immediately with remarkable early success. It's an example of a perverse sort of reliabilist justification, one where a reliably unreliable source provides justification if you always do the opposite. I find a lot of the things that Bill Inmon says to be just like George Costanza, reliably wrong. 
  
