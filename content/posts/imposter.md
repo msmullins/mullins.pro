@@ -1,0 +1,18 @@
++++ 
+draft = false
+date = 2024-02-29T10:55:48-05:00
+title = "Facing Down Imposter Syndrome"
++++
+![Cover Image](image.png)
+
+Seventy percent of us will wrestle with imposter syndrome at some point in our lives, but nothing quite prepares you for the moment it strikes in the midst of your most crucial career juncture. Curiously, you are actually more likely to suffer from imposter syndrome if you are in fact a high performer. (Kudos on your accomplishments if you are a sufferer!) Unsurprisingly a lot of people in graduate school will experience imposter syndrome because they're high performers thrust into an environment with lots of other high performers. However, my one very memorable experience with imposter syndrome happened in a meeting at Microsoft and never during my PhD. Let me back up a bit.
+
+As an undergrad I majored in philosophy and management of information systems (MIS). Philosophy was my first love, but I anticipated needing to feed myself too.  One of the required courses for the MIS program was a databases 101 course that would cover all the standard stuff about OLTP vs OLAP, third normal form, and the like. The textbook for that class was Ramakrishnan and Gehrke's [Database Management Systems](https://pages.cs.wisc.edu/~dbbook/), often time affectionately called the "Cow Book". The Cow Book is/was hugely popular, now in its third edition, and probably used to teach tens of thousands of fledgling data professionals.
+
+Fast-forward about fifteen years and I'm now a newly minted CTO of a data startup on the wain. We were shopping for an exit and had the most amazing CFO, Geoff Trukenbrod. Besides being a really competent CFO (he was CFO for Obama's second campaign) Geoff had this really fantastic network from having done his MBA at Chicago's Booth b-school. Geoff was able to get us corporate development meetings in places we'd never have gotten on our own. One of those places was Microsoft.
+
+We all flew out to Seattle for meeting in Redmond to pitch our product and do a show and tell. I'd participated in a lot of meetings like this and did not really expect the Microsoft meeting to be any different.  We got to the room and start doing introductions and the first person I meet, Raghu Ramakrishnan, co-author of the Cow Book. Immediate deep and unshakable imposter syndrome. I wish I could have marshalled the courage of George C. Scott’s General Patton “Rommel, you magnificent bastard, I read your book." Instead, I sat down and wanted to sink through the back of my chair. I wasn’t then in any way prepared to deal with what I was experiencing.
+
+We muddled through the pitch and it went as fine as any other I’m sure. My cage was so rattled I don’t actually remember much other than the deep sense of relief when we actually got out of the room. Obviously, Microsoft did not buy us and that was not terribly surprising. Probably, probably, completely disconnected from my imposter syndrome. I did walk away determined not to repeat the experience, which meant I was going to have to figure out how to deal with imposter syndrome.
+
+What worked for me? First was being honest about what my experience was and how I felt, which isn’t encouraged for men in our culture. That meant acknowledging it to myself and being able to talk about it with others. Second was learning about reframing my thoughts in those situations. That requires some metacognitive work to be aware of what you are experiencing in the moment and giving yourself the space to step back. To be able to reframe, I had to set realistic expectations about where I was and what I was capable of and be ok with those expectations. Your mileage may vary, but if your imposter syndrome is more than a passing thing, get professional help. 
