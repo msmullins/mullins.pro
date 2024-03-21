@@ -2,17 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Mullins Thoughts</title>
-    <link>https://mullins.pro/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Mullins Thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Feb 2024 16:26:17 -0500</lastBuildDate>
-    <atom:link href="https://mullins.pro/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Mar 2024 22:42:47 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Voltron&#39;s Theseus Benchmarks</title>
+      <link>http://localhost:1313/posts/voltron_theseus/</link>
+      <pubDate>Tue, 19 Mar 2024 22:42:47 -0400</pubDate>
+      <guid>http://localhost:1313/posts/voltron_theseus/</guid>
+      <description>If I&amp;rsquo;d been born ten to twenty years earlier, I&amp;rsquo;d no doubt have been a gearhead looking to eke out as much performance from a ICE engine as possible. Instead I&amp;rsquo;ve spent thirty years performance tuning computers and drooling over super computers the way some guys look at muscle cars. I spent most of the 90&amp;rsquo;s constantly upgrading and overclocking chips and memory while watching Cray dominate the Top500. In the early 00&amp;rsquo;s I got excited about the prospect of cobbling together a Souper Computer while living next door to Oak Ridge labs.</description>
+    </item>
+    <item>
+      <title>Facing Down Imposter Syndrome</title>
+      <link>http://localhost:1313/posts/imposter/</link>
+      <pubDate>Thu, 29 Feb 2024 10:55:48 -0500</pubDate>
+      <guid>http://localhost:1313/posts/imposter/</guid>
+      <description>Seventy percent of us will wrestle with imposter syndrome at some point in our lives, but nothing quite prepares you for the moment it strikes in the midst of your most crucial career juncture. Curiously, you are actually more likely to suffer from imposter syndrome if you are in fact a high performer. (Kudos on your accomplishments if you are a sufferer!) Unsurprisingly a lot of people in graduate school will experience imposter syndrome because they&amp;rsquo;re high performers thrust into an environment with lots of other high performers.</description>
+    </item>
+    <item>
+      <title>Review: Deciphering Data Architectures</title>
+      <link>http://localhost:1313/posts/deciphering_data_architectures/</link>
+      <pubDate>Tue, 20 Feb 2024 12:09:57 -0500</pubDate>
+      <guid>http://localhost:1313/posts/deciphering_data_architectures/</guid>
+      <description>In the last decade the field of data management has evolved rapidly, the emergence of new architectures alongside the traditional data warehouse has stirred both excitement and more often confusion among professionals. James Serra’s &amp;ldquo;Deciphering Data Architectures&amp;rdquo; arrives to bring some semblance of clarity, offering a comprehensive guide to navigate through this complex landscape. This isn’t a comprehensive review, but a highlight of some to the things I liked in Serra&amp;rsquo;s work.</description>
+    </item>
+    <item>
+      <title>On Being Reliably Wrong</title>
+      <link>http://localhost:1313/posts/reliably_wrong/</link>
+      <pubDate>Sat, 17 Feb 2024 21:46:41 -0500</pubDate>
+      <guid>http://localhost:1313/posts/reliably_wrong/</guid>
+      <description>One of my favorite episodes of Seinfeld was &amp;ldquo;The Opposite&amp;rdquo; from the end of the fifth season. In the episode George laments that all of his life choices have been wrong. Jerry remarks to him that &amp;ldquo;if every instinct you have is wrong, then the opposite would have to be right&amp;rdquo;. George puts this to the test immediately with remarkable early success. It&amp;rsquo;s an example of a perverse sort of reliabilist justification, one where a reliably unreliable source provides justification if you always do the opposite.</description>
+    </item>
     <item>
       <title>Back to Blogging</title>
-      <link>https://mullins.pro/posts/first-post/</link>
+      <link>http://localhost:1313/posts/first-post/</link>
       <pubDate>Mon, 12 Feb 2024 16:26:17 -0500</pubDate>
-      <guid>https://mullins.pro/posts/first-post/</guid>
+      <guid>http://localhost:1313/posts/first-post/</guid>
       <description>My first foray into blogging was twenty years ago and from 2004 to 2015 I ran a popular group blog for academic philosophy. At the time blogging was a great way to collaborate with other people in our field, get feedback on work in progress, and to some extent raise your profile in the profession. It was great for young philosophers and those in small departments without peers working in close areas.</description>
     </item>
   </channel>

@@ -2,24 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mullins.pro/about/</loc>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-03-19T22:42:47-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-03-19T22:42:47-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/voltron_theseus/</loc>
+    <lastmod>2024-03-19T22:42:47-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/imposter/</loc>
+    <lastmod>2024-02-29T10:55:48-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/deciphering_data_architectures/</loc>
+    <lastmod>2024-02-20T12:09:57-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/reliably_wrong/</loc>
+    <lastmod>2024-02-17T21:46:41-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-02-12T23:28:59-05:00</lastmod>
   </url><url>
-    <loc>https://mullins.pro/posts/first-post/</loc>
+    <loc>http://localhost:1313/posts/first-post/</loc>
     <lastmod>2024-02-12T16:26:17-05:00</lastmod>
   </url><url>
-    <loc>https://mullins.pro/</loc>
-    <lastmod>2024-02-12T16:26:17-05:00</lastmod>
+    <loc>http://localhost:1313/search/</loc>
   </url><url>
-    <loc>https://mullins.pro/posts/</loc>
-    <lastmod>2024-02-12T16:26:17-05:00</lastmod>
+    <loc>http://localhost:1313/archives/</loc>
   </url><url>
-    <loc>https://mullins.pro/search/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://mullins.pro/archives/</loc>
-  </url><url>
-    <loc>https://mullins.pro/categories/</loc>
-  </url><url>
-    <loc>https://mullins.pro/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
